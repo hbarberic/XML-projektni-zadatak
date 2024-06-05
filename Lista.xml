@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sveucilista>
+
+    <sveuciliste id="1">
+        <pozicija>1</pozicija>
+        <naziv>University of Bologna</naziv>
+        <lokacija>
+            <grad>Bologna</grad>
+            <drzava>Italija</drzava>
+        </lokacija>
+        <godina_osnutka>1088</godina_osnutka>
+    </sveuciliste>
+    <sveuciliste id="2">
+        <pozicija>2</pozicija>
+        <naziv>University of Oxford</naziv>
+        <lokacija>
+            <grad>Oxford</grad>
+            <drzava>Ujedinjeno Kraljevstvo</drzava>
+        </lokacija>
+        <godina_osnutka>1096</godina_osnutka>
+    </sveuciliste>
+    <sveuciliste id="3">
+        <pozicija>3</pozicija>
+        <naziv>University of Salamanca</naziv>
+        <lokacija>
+            <grad>Salamanca</grad>
+            <drzava>Španjolska</drzava>
+        </lokacija>
+        <godina_osnutka>1134</godina_osnutka>
+    </sveuciliste>
+    <sveuciliste id="4">
+        <pozicija>4</pozicija>
+        <naziv>University of Paris</naziv>
+        <lokacija>
+            <grad>Paris</grad>
+            <drzava>Francuska</drzava>
+        </lokacija>
+        <godina_osnutka>1160</godina_osnutka>
+    </sveuciliste>
+    <sveuciliste id="5">
+        <pozicija>5</pozicija>
+        <naziv>University of Cambridge</naziv>
+        <lokacija>
+            <grad>Cambridge</grad>
+            <drzava>Ujedinjeno Kraljevstvo</drzava>
+        </lokacija>
+        <godina_osnutka>1209</godina_osnutka>
+    </sveuciliste>
+    <sveuciliste id="6">
+        <pozicija>6</pozicija>
+        <naziv>University of Padua</naziv>
+        <lokacija>
+            <grad>Padova</grad>
+            <drzava>Italija</drzava>
+        </lokacija>
+        <godina_osnutka>1222</godina_osnutka>
+    </sveuciliste>
+    <sveuciliste id="7">
+        <pozicija>7</pozicija>
+        <naziv>University of Naples Federico II</naziv>
+        <lokacija>
+            <grad>Napulj</grad>
+            <drzava>Italija</drzava>
+        </lokacija>
+        <godina_osnutka>1224</godina_osnutka>
+    </sveuciliste>
+    <sveuciliste id="8">
+        <pozicija>8</pozicija>
+        <naziv>University of Toulouse</naziv>
+        <lokacija>
+            <grad>Toulouse</grad>
+            <drzava>Francuska</drzava>
+        </lokacija>
+        <godina_osnutka>1229</godina_osnutka>
+    </sveuciliste>
+    <sveuciliste id="9">
+        <pozicija>9</pozicija>
+        <naziv>University of Siena</naziv>
+        <lokacija>
+            <grad>Siena</grad>
+            <drzava>Italija</drzava>
+        </lokacija>
+        <godina_osnutka>1240</godina_osnutka>
+    </sveuciliste>
+    <sveuciliste id="10">
+        <pozicija>10</pozicija>
+        <naziv>University of Valladolid</naziv>
+        <lokacija>
+            <grad>Valladolid</grad>
+            <drzava>Španjolska</drzava>
+        </lokacija>
+        <godina_osnutka>1241</godina_osnutka>
+    </sveuciliste>
+
+</sveucilista>

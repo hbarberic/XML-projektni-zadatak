@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="sveucilista">
+        <xs:complexType>
+            <xs:sequence>
+
+                <xs:element name="sveuciliste" minOccurs="0" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+
+                            <xs:element name="pozicija" type="xs:integer" />
+                            <xs:element name="naziv" type="xs:string" />
+                            
+                            <xs:element name="lokacija">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="grad" type="xs:string" />
+                                        <xs:element name="drzava" type="xs:string" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="godina_osnutka" type="xs:integer" />
+                            
+                        </xs:sequence>
+                        <xs:attribute name="id" type="xs:integer" use="required" />
+                    </xs:complexType>
+                </xs:element>
+            
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
